@@ -18,5 +18,3 @@ vim /etc/crontab
 
 //service cron status
 
-
-b2bmonitoring.indosatooredoo.com
